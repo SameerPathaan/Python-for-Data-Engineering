@@ -13,4 +13,4 @@ Description:
 
 > Building Data models required for creating a table with PostgreSQL
 
-> Creating different tables for input data files (.csv) and inserting data into the tables.
+> Defining different tables structures for input data files (.csv) and inserting data into the tables.
